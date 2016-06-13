@@ -117,29 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="button1.Text" xml:space="preserve">
+    <value>create</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="textBoxDatum.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 20</value>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 13</value>
   </data>
-  <data name="textBoxKnr.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 20</value>
+  <data name="label5.Text" xml:space="preserve">
+    <value>ProductId</value>
   </data>
-  <data name="textBoxMenge.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 20</value>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>48, 13</value>
   </data>
-  <data name="textBoxArtNr.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 20</value>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Quantitiy</value>
   </data>
-  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 23</value>
-  </data>
-  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 23</value>
-  </data>
-  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 23</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 23</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Order</value>
   </data>
 </root>
